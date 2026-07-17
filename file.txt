@@ -1,0 +1,22 @@
+Раздел: Главное
+    1. ЧМ-2026 -> https://www.rbc.ru/story/worldcup2026?from=main_main_stories
+    2. Атаки беспилотников на Москву -> https://www.rbc.ru/story/647591c69a79473807ed34f0?from=main_main_stories
+    3. Дивиденды: кто, сколько и когда заплатит -> https://www.rbc.ru/story/675c5c369a79472448e35309?from=main_main_stories
+Раздел: Центральные новости
+    1. Греция предупредила ЕС о потере доли рынка СПГ из-за 21-го пакета санкций -> https://www.rbc.ru/politics/17/07/2026/6a5a472f9a79472d68da1162?from=main_lines_1
+    2. Власти предложили расширить основания для контрактов осужденных с армией -> https://www.rbc.ru/politics/17/07/2026/6a5a50799a7947771f8f40bf?from=main_lines_2
+    3. Власти обсудят исключение торговли из льготного списка по УСН -> https://pro.rbc.ru/demo/6a5911629a7947f21989b10a?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_3&utm_content=6a5911629a7947f21989b10a&utm_term=Y_null_base
+    4. Глава МВД Эстонии призвал ЕС прекратить выдачу турвиз россиянам -> https://www.rbc.ru/politics/17/07/2026/6a5a31e49a79472a2d24f539?from=main_lines_4
+    5. Суд арестовал экс-главу департамента Минпромторга -> https://www.rbc.ru/politics/17/07/2026/6a5a3b1b9a794743264a7703?from=main_lines_5
+    6. Минобороны сообщило о системе, повысившей эффективность боевых действий -> https://www.rbc.ru/politics/17/07/2026/6a5a36859a79475f324c460c?from=main_lines_6
+    7. Греф назвал «одну из самых аморальных вещей» в работе ИИ в военной сфере -> https://www.rbc.ru/technology_and_media/17/07/2026/6a5a4b159a79475de23d8378?from=main_lines_7
+    8. Движение «Голос» признали нежелательным в России -> https://www.rbc.ru/politics/17/07/2026/6a5a53289a794728e01c6eb5?from=main_lines_8
+    9. Почему Зеленский решил сделать министром обороны генерала СБУ -> https://www.rbc.ru/politics/17/07/2026/6a5a0d879a79477fea3a28aa?from=main_lines_9
+    10. Эти голубые фишки еще не стоили так дешево. Есть ли смысл их покупать -> https://pro.rbc.ru/demo/6a5913709a79474bb82844e5?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_10&utm_content=6a5913709a79474bb82844e5&utm_term=Y_null_base
+    11. Евкуров сообщил о подготовке более 140 тыс. военных в полках резерва -> https://www.rbc.ru/politics/17/07/2026/6a5a45529a794700ec39ab23?from=main_lines_11
+    12. Пользователи Т-Банка сообщили о сбое в работе приложения за границей -> https://www.rbc.ru/technology_and_media/17/07/2026/6a5a4fc99a79473db8e92862?from=main_lines_12
+    13. Контроль таможенной стоимости ужесточился. Как защитить компанию -> https://pro.rbc.ru/demo/6a5633af9a794713e668d376?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_13&utm_content=6a5633af9a794713e668d376&utm_term=Y_null_base
+    14. Как добиться исполнения решения российского суда в ОАЭ -> https://pro.rbc.ru/demo/6a5631d19a79475d16d2d17f?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_14&utm_content=6a5631d19a79475d16d2d17f&utm_term=Y_null_base
+    15. МИД Франции выразил протест представителю России из-за кибератак -> https://www.rbc.ru/politics/17/07/2026/6a5a48779a794724698bc2f0?from=main_lines_15
+    16. Где в регионах ввели заправку по номерам. Карта и последние новости -> https://pro.rbc.ru/demo/6a3a78fe9a79479b77ca9dff?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_16&utm_content=6a3a78fe9a79479b77ca9dff&utm_term=Y_null_base
+    17. Пенсия отменяется: почему люди начинают бизнес в 70 и даже 80 лет -> https://pro.rbc.ru/demo/6a5629ef9a79475c10522838?utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=main_lines_17&utm_content=6a5629ef9a79475c10522838&utm_term=Y_null_base
