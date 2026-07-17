@@ -186,9 +186,7 @@ with open("file.txt", "r", encoding="utf-8") as f:
 <details>
     <summary>file.txt</summary>
     <br>
-    <img src="img_5.png"/>
-    <br>
-    <img src="img_6.png"/>
+    <img width="1868" height="558" alt="image" src="https://github.com/user-attachments/assets/4ed1ec5f-6a71-4abe-ab14-1f0824b4fa23" />
 </details>
 
 <br>
