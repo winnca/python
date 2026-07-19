@@ -11,7 +11,7 @@ params_moscow = {
     "past_days": 7,  # прошедшие дни
     "forecast_days": 7,  # следующие прогнозируемые дни
     "daily": "temperature_2m_mean,apparent_temperature_mean,precipitation_probability_mean,wind_speed_10m_max,sunrise,sunset,weather_code",  # Ежедневные данные
-    "timezone": "auto",  # API сам определяет время по координатам
+    "timezone": "auto",  # автоматически определяет время по координатам
     "current": "temperature_2m,apparent_temperature"  # температура воздуха на высоте 2 м от земли, ощущаемая температура
 }
 url = "https://api.open-meteo.com/v1/forecast"
