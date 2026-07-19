@@ -1,5 +1,6 @@
 ## Лабораторные работы
 
+### [Погода API](https://github.com/winnca/python/tree/api)
 
 ### [Парсинг новостей с сайта](https://github.com/winnca/python/tree/parser)
 
