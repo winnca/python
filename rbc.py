@@ -14,6 +14,8 @@ except HTTPError as http_err:
     print(f"Статус-код HTTP: {http_err}")
 except ConnectionError as conn_err:
     print(f"Ошибка соединения: {conn_err}")
+except Timeout as t_err:
+    print(f"Таймаут истёк: {t_err}")
 except RequestException as req_err:
     print(f"Ошибка библиотеки requests: {req_err}")
 except Exception as e:
