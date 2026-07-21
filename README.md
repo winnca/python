@@ -16,8 +16,6 @@
 
 * ### [Работа с файлами и директория](https://github.com/Vinnjy/python/tree/file_directory)
 
-* ### [Задачи с экзамена: numpy, pandas](https://github.com/Vinnjy/python/tree/batman)
-
 ### SQL:
 
 * ### [SQLite](https://github.com/Vinnjy/python/tree/8_sqlite)
