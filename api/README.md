@@ -159,10 +159,10 @@ except ConnectionError as conn_err:
     print(f"Ошибка соединения: {conn_err}")
 except HTTPError as http_err:
     print(f"Статус-код ошибки: {http_err}")
-except RequestException as req_err:
-    print(f"Ошибка библиотеки: {req_err}")
 except Timeout as t_err:
     print(f"Таймаут превышен {t_err}")
+except RequestException as req_err:
+    print(f"Ошибка библиотеки: {req_err}")
 except Exception as e:
     print(f"Другая ошибка: {e}")
 else:
@@ -225,7 +225,7 @@ params_moscow = {
     "past_days": 7,  # прошедшие дни
     "forecast_days": 7,  # следующие прогнозируемые дни
     "daily": "temperature_2m_mean,apparent_temperature_mean,precipitation_probability_mean,wind_speed_10m_max,sunrise,sunset,weather_code",  # Ежедневные данные
-    "timezone": "auto",  # API сам определяет время по координатам
+    "timezone": "auto",  # автоматически определяет время по координатам
     "current": "temperature_2m,apparent_temperature"  # температура воздуха на высоте 2 м от земли, ощущаемая температура
 }
 url = "https://api.open-meteo.com/v1/forecast"
@@ -267,10 +267,10 @@ except ConnectionError as conn_err:
     print(f"Ошибка соединения: {conn_err}")
 except HTTPError as http_err:
     print(f"Статус-код ошибки: {http_err}")
-except RequestException as req_err:
-    print(f"Ошибка библиотеки: {req_err}")
 except Timeout as t_err:
     print(f"Таймаут превышен {t_err}")
+except RequestException as req_err:
+    print(f"Ошибка библиотеки: {req_err}")
 except Exception as e:
     print(f"Другая ошибка: {e}")
 else:
