@@ -4,6 +4,8 @@
 
 ### [Парсинг новостей с сайта](https://github.com/winnca/python/tree/parser)
 
+### [Github API и парсинг README.md для создания SQL-файла](https://github.com/winnca/python/tree/github_api)
+
 ### Обработка данных:
 
 * ### [CSV, JSON ](https://github.com/Vinnjy/python/tree/6_csv_json)
