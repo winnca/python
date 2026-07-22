@@ -18,13 +18,13 @@
 
 ### Обработка данных:
 
+* ### [Работа с файлами и директория](https://github.com/Vinnjy/python/tree/file_directory)
+
 * ### [CSV, JSON ](https://github.com/Vinnjy/python/tree/6_csv_json)
 
 * ### [JSON, pickle, XML](https://github.com/Vinnjy/python/tree/7_xml_pickle_json)
 
 * ### [BeautifulSoup, requests, JSON (API)](https://github.com/winnca/python/tree/requests_bs4_json_api)
-
-* ### [Работа с файлами и директория](https://github.com/Vinnjy/python/tree/file_directory)
 
 ### Паттерны:
 
