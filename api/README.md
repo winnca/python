@@ -1,24 +1,26 @@
 ## Задание
 
-Цель: Получить текущие данные о погоде для заданного города с использованием публичного API.
-1. Open-meteo.
+### Цель: Получить текущие данные о погоде для заданного города с использованием публичного API.
 
-2. Изучите документацию к API для получения погоды.
+1. Используем сайт Open-meteo.
 
-3. Используя библиотеку requests, отправьте GET-запрос к API для получения данных о погоде в вашем городе (или любом другом).
+2. Изучите документацию к API для получения погоды: `https://open-meteo.com/en/docs#location_and_time`.
+
+3. Используя библиотеку `requests`, отправьте `GET-запрос` к `API` для получения данных о погоде в вашем городе (или любом другом).
+
 4. Обработайте JSON-ответ и извлеките следующую информацию:
 
-* Температура (в градусах Цельсия)
-
-* Описание погоды (например, "ясно", "небольшая облачность")
-
-* Вероятность выпадения осадков
-
-* Скорость ветра
-
-* Восход
-
-* Закат
+    * Температура (в градусах Цельсия)
+    
+    * Описание погоды (например, "ясно", "небольшая облачность")
+    
+    * Вероятность выпадения осадков
+    
+    * Скорость ветра
+    
+    * Восход
+    
+    * Закат
 
 <br>
 <br>
@@ -46,13 +48,20 @@ from requests import ConnectionError, HTTPError, RequestException, Timeout
 
 * `application/json`, `application/xml` = структурированные данные для программ. `JSON` имеет жёсткий синтаксис, поэтому относится к категории приложений.
 
-* `Content-type^ application/json` = какой формат данных отправляет на сервер.
+* `Content-type: application/json` = какой формат данных отправляет на сервер.
+
 ```
 headers = {
     "Accept": "application/json",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
 }
 ```
+
+<details>
+    <summary>navigator</summary>
+    <br>
+    <img width="1517" height="339" alt="image" src="https://github.com/user-attachments/assets/ce006063-7a44-49f4-b2d8-497f9da297cc" />
+</details>
 
 3) Используя API-документацию `https://open-meteo.com/en/docs#location_and_time` выбираем параметры, которые хотим получить.
 
@@ -86,15 +95,22 @@ headers = {
 
 ```
 params_moscow = {
-    "latitude": 55.7539,  # широта
-    "longitude": 37.6203,  # долгота
-    "past_days": 7,  # прошедшие дни
-    "forecast_days": 7,  # следующие прогнозируемые дни
-    "daily": "temperature_2m_mean,apparent_temperature_mean,precipitation_probability_mean,wind_speed_10m_max,sunrise,sunset,weather_code",  # Ежедневные данные
-    "timezone": "auto",  # API сам определяет время по координатам
-    "current": "temperature_2m,apparent_temperature"  # температура воздуха на высоте 2 м от земли, ощущаемая температура
-}
+    "latitude": 55.7539,
+    "longitude": 37.6203,
+    "past_days": 7,
+    "forecast_days": 7,
+    "daily": "temperature_2m_mean,apparent_temperature_mean,precipitation_probability_mean,wind_speed_10m_max,sunrise,sunset,weather_code",
+    "timezone": "auto",
+    "current": "temperature_2m,apparent_temperature"
 ```
+
+<details>
+    <summary>coordinates</summary>
+    <br>
+    <img width="391" height="48" alt="image" src="https://github.com/user-attachments/assets/233d0e59-52d6-4eaa-8fda-9b2941cc3374" />
+    <br>
+    <img width="627" height="178" alt="image" src="https://github.com/user-attachments/assets/53109f8f-dac7-474c-a0cf-3a65cd719839" />
+</details>
 
 4) URL для API.
 
@@ -136,6 +152,12 @@ wmo = {
     99: "Гроза с сильным ветром"
 }
 ```
+
+<details>
+    <summary>weather</summary>
+    <br>
+    <img width="546" height="817" alt="image" src="https://github.com/user-attachments/assets/0d1ad69a-0799-47f2-85b0-ed1e452b7734" />
+</details>
 
 6) Извлекаем с помощью библиотеки `requests` данные, используя заголовки и параметры. Используем `try-except` для обработки исключений, `else` = если не возникнет ошибок.
 
@@ -180,7 +202,7 @@ answer = response.json()
 current = answer['current']
 ```
 
-9) Выводит текущую погоду и ощущаемую
+9) Выводит текущую погоду `temperature_2m` с единицей измерения `answer['current_units']['temperature_2m']` и ощущаемую.
 
 ```
 print(f"\nТекущая погода: {current['temperature_2m']}{answer['current_units']['temperature_2m']}")
