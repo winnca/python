@@ -86,6 +86,8 @@ for link in all_links:
     <img src="img_3.png"/>
     <br>
     <img src="img_7.png"/>
+    <br>
+    <img width="923" height="244" alt="image" src="https://github.com/user-attachments/assets/241b2f6f-68ff-4203-9c7d-79a7984f37f5" />
 </details>
 
 2) Так как здесь используется `Docsify` = генератор сайтов для документации. Из-за него не видим содержимое тега `body` полностью, точнее `div`, в котором только слова загрузки.
