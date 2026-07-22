@@ -24,7 +24,7 @@
 
 * ### [JSON, pickle, XML](https://github.com/Vinnjy/python/tree/7_xml_pickle_json)
 
-* ### [BeautifulSoup, requests, JSON (API)](https://github.com/winnca/python/tree/requests_bs4_json_api)
+* ### [BeautifulSoup, requests, JSON (API)](https://github.com/winnca/python/blob/requests_bs4_json_api/trainer/README.md)
 
 ### Паттерны:
 
