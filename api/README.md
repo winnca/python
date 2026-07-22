@@ -58,7 +58,7 @@ headers = {
 ```
 
 <details>
-    <summary>navigator</summary>
+    <summary>User-Agent</summary>
     <br>
     <img width="1517" height="339" alt="image" src="https://github.com/user-attachments/assets/ce006063-7a44-49f4-b2d8-497f9da297cc" />
 </details>
@@ -154,7 +154,7 @@ wmo = {
 ```
 
 <details>
-    <summary>weather</summary>
+    <summary>weather-docs</summary>
     <br>
     <img width="546" height="817" alt="image" src="https://github.com/user-attachments/assets/0d1ad69a-0799-47f2-85b0-ed1e452b7734" />
 </details>
