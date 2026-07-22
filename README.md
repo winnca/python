@@ -4,6 +4,8 @@
 
 ### [Парсинг новостей с сайта](https://github.com/winnca/python/tree/parser)
 
+### [Парсинг сайта с курсом по Java для сохрание каждого в формате .md](https://github.com/winnca/python/tree/parser_java)
+
 ### [Github API и парсинг README.md для создания SQL-файла](https://github.com/winnca/python/tree/github_api)
 
 ### SQL:
