@@ -12,9 +12,9 @@
 
 ### Интерактивные приложения:
 
-* ### [Калькулятор](https://github.com/Vinnjy/python/tree/tkinter/tkinter/calculate)
+* ### [Калькулятор](https://github.com/winnca/python/tree/3_tkinter)
 
-* ### [Paint](https://github.com/Vinnjy/python/tree/canvas/canvas/paint)
+* ### [Paint](https://github.com/winnca/python/tree/4_canvas)
 
 ### Обработка данных:
 
