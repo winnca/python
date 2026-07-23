@@ -1,12 +1,18 @@
 ## Лабораторные работы
 
-### [Погода API](https://github.com/winnca/python/tree/api)
+<br>
 
-### [Парсинг новостей с сайта](https://github.com/winnca/python/tree/parser)
+### Парсинг:
 
-### [Парсинг сайта с курсом по Java для сохрание каждого занятия в формате .md](https://github.com/winnca/python/tree/parser_java)
+* ### [Парсинг новостей с сайта](https://github.com/winnca/python/tree/parser)
 
-### [Github API и парсинг README.md для создания SQL-файла](https://github.com/winnca/python/tree/github_api)
+* ### [Парсинг сайта с курсом по Java для сохрание каждого занятия в формате .md](https://github.com/winnca/python/tree/parser_java)
+
+### API:
+
+* ### [Погода API](https://github.com/winnca/python/tree/api)
+
+* ### [Github API и парсинг README.md для создания SQL-файла](https://github.com/winnca/python/tree/github_api)
 
 ### SQL:
 
