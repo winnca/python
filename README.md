@@ -27,9 +27,3 @@
 * ### [JSON, pickle, XML](https://github.com/Vinnjy/python/tree/7_xml_pickle_json)
 
 * ### [BeautifulSoup, requests, JSON (API)](https://github.com/winnca/python/blob/requests_bs4_json_api/trainer/README.md)
-
-### Паттерны:
-
-+ ### [Фабрика](https://github.com/Vinnjy/python/tree/factory)
-
-+ ### [Декоратор и Стратегия](https://github.com/Vinnjy/python/tree/decorator_strategy)
